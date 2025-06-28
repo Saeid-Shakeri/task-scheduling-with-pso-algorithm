@@ -18,5 +18,5 @@ An implementation of **Task Scheduling using Particle Swarm Optimization (PSO)**
 ## 🛠️ How to Compile & Run
 
 ```bash
-g++ -o scheduler main.cpp
+g++ -o scheduler pso.cpp
 ./scheduler
